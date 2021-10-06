@@ -1,5 +1,4 @@
 let mongoose = require('mongoose');
-let bcrypt = require('bcryptjs');
 let slugger = require('slugger');
 
 let Schema = mongoose.Schema;
